@@ -1,6 +1,6 @@
 {
   "name": "@mskian/kilometer-conversion",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kilometer Conversion - From Meter to Kilometer.",
   "publishConfig": {
     "access": "public"
