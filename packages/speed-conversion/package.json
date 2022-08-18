@@ -1,6 +1,6 @@
 {
   "name": "@mskian/speed-conversion",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert Speed from Meter Per Seconds to Kilometer Per Hour.",
   "publishConfig": {
     "access": "public"
