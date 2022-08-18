@@ -1,4 +1,5 @@
 {
+  "name": "root",
   "private": true,
   "repository": "https://github.com/mskian/utilities-monorepo",
   "author": "Santhosh Veer",
