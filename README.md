@@ -17,10 +17,16 @@ Utilities Monorepo `npm` packages for My Projects and CLI tools - Managed using 
 lerna create hello-world
 ```
 
-- Publish package
+- Publish package using lerna
 
 ```sh
 lerna publish
+```
+
+- Publish package using pnpm
+
+```sh
+pnpm -r publish
 ```
 
 ## packages
