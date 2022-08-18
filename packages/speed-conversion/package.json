@@ -11,17 +11,17 @@
     "km"
   ],
   "author": "mskian <10300271+mskian@users.noreply.github.com>",
-  "homepage": "https://github.com/mskian/utlis-monorepo#readme",
+  "homepage": "https://github.com/mskian/utilities-monorepo#readme",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mskian/utlis-monorepo.git"
+    "url": "git+https://github.com/mskian/utilities-monorepo.git"
   },
   "scripts": {
     "test": "node test.js"
   },
   "bugs": {
-    "url": "https://github.com/mskian/utlis-monorepo/issues"
+    "url": "https://github.com/mskian/utilities-monorepo/issues"
   }
 }

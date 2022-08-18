@@ -1,6 +1,6 @@
 {
   "private": true,
-  "repository": "https://github.com/mskian/utlis-monorepo",
+  "repository": "https://github.com/mskian/utilities-monorepo",
   "author": "Santhosh Veer",
   "license": "MIT",
   "workspaces": [

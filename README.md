@@ -1,8 +1,8 @@
 # Utilities
 
-utilities npm packages for My Project and CLI tools - Managed using Lerna.
+Utilities Monorepo `npm` packages for My Projects and CLI tools - Managed using Lerna.
 
-## Usgae
+## Usage
 
 - Create `npmrc` file and save the NPM access token for package publishing (don't forget add this file into `.gitignore`)
 
@@ -21,6 +21,18 @@ lerna create hello-world
 
 ```sh
 lerna publish
+```
+
+## packages
+
+- Convert Speed from Meter Per Seconds to Kilometer Per Hour.
+
+```sh
+npm install @mskian/speed-conversion --save
+
+or
+
+yarn add @mskian/speed-conversion
 ```
 
 ## LICENSE

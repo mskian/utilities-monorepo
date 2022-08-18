@@ -2,6 +2,14 @@
 
 Convert Speed from Meter Per Seconds to Kilometer Per Hour
 
+```sh
+npm install @mskian/speed-conversion --save
+
+or
+
+yarn add @mskian/speed-conversion
+```
+
 ## Usage
 
 ```js
