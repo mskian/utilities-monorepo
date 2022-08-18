@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "repository": "https://github.com/mskian/utlis-monorepo",
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
