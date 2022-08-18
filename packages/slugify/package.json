@@ -1,0 +1,27 @@
+{
+  "name": "@mskian/slugify",
+  "version": "0.0.0",
+  "description": "Slugify the User input - Convert into SEO Friendly URL.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "slugify",
+    "SEO",
+    "url"
+  ],
+  "author": "mskian <10300271+mskian@users.noreply.github.com>",
+  "homepage": "https://github.com/mskian/utilities-monorepo#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/utilities-monorepo.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mskian/utilities-monorepo/issues"
+  }
+}

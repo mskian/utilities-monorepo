@@ -1,6 +1,6 @@
 # Utilities
 
-Utilities Monorepo `npm` packages for My Projects and CLI tools - Managed using Lerna.
+Utilities Monorepo `npm` packages for My Projects and CLI tools - Managed using Lerna and pnpm.
 
 ## Usage
 
@@ -43,6 +43,16 @@ npm install @mskian/kilometer-conversion --save
 or
 
 yarn add @mskian/kilometer-conversion
+```
+
+- Slugify User input
+
+```sh
+npm install @mskian/slugify --save
+
+or
+
+yarn add @mskian/slugify
 ```
 
 ## LICENSE
