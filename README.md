@@ -35,6 +35,16 @@ or
 yarn add @mskian/speed-conversion
 ```
 
+- Kilometer Conversion - From Meter to Kilometer
+
+```sh
+npm install @mskian/kilometer-conversion --save
+
+or
+
+yarn add @mskian/kilometer-conversion
+```
+
 ## LICENSE
 
 MIT
