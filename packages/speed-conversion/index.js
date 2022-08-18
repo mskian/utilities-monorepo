@@ -8,4 +8,4 @@ function speedConversion(user_speed) {
     return final_speed;
 }
 
-module.exports = speedConversion;
+module.exports.speedConversion = speedConversion;
